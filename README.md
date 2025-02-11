@@ -1,4 +1,11 @@
 # SDRL Environment and Training Pipeline
+
+Public Road Tests Video:
+
+https://github.com/user-attachments/assets/bdf816d7-52e4-4f5d-b30c-9d50595e0d3f
+
+
+
 ## 1. Structure
 The files are structured as follows:
 ```bash

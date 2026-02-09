@@ -153,3 +153,6 @@ The trained model will be saved to the data/interim/ directory.
 The test process will render the agent's performance in the Drive Environment.
 
 The throughput test will output the average throughput performance.
+
+## 10. Vison-based End-to-end Edition
+https://github.com/aozhouza/bench2drive_ppofinetuning
